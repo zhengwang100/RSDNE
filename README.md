@@ -20,4 +20,5 @@ U = RSDNE(G, X_zsl, Y_zsl, lowRank, alpha, lambda, learnRate, k) ;
 
 
 Citing
+---
 If you find RSDNE useful in your research, please cit our paper, thx.
