@@ -21,4 +21,16 @@ U = RSDNE(G, X_zsl, Y_zsl, lowRank, alpha, lambda, learnRate, k) ;
 
 Citing
 ---
-If you find RSDNE useful in your research, please cit our paper, thx.
+If you find RSDNE useful in your research, please cit our paper, thx:
+
+@InProceedings{wang2018rsdne:,
+
+  title={RSDNE: Exploring Relaxed Similarity and Dissimilarity from Completely-imbalanced Labels for Network Embedding},
+  
+  author={Wang, Zheng and Ye, Xiaojun and Wang, Chaokun and Wu, YueXin and Wang, Changping and Liang, Kaiwen},
+  
+  booktitle={Proceedingss of AAAI},
+  
+  year={2018}
+  
+}
