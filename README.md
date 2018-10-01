@@ -29,7 +29,9 @@ If you find RSDNE useful in your research, please cit our paper, thx:
   
   author={Wang, Zheng and Ye, Xiaojun and Wang, Chaokun and Wu, YueXin and Wang, Changping and Liang, Kaiwen},
   
-  booktitle={Proceedingss of AAAI},
+  booktitle={AAAI},
+  
+  pages={475--482},
   
   year={2018}
   
