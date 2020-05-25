@@ -1,5 +1,6 @@
 # RSDNE
-RSDNE: Exploring Relaxed Similarity and Dissimilarity from Completely-imbalanced Labels for Network Embedding. AAAI18
+RSDNE: Exploring Relaxed Similarity and Dissimilarity from Completely-imbalanced Labels for Network Embedding. AAAI18.
+This is a shallow method for the problem of Zero-shot Graph Embedding (ZGE), i.e., graph embeddings when labeled data cannot cover all classes.
 
 Usage (abstract):
 ---
